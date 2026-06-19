@@ -1,4 +1,4 @@
-# Optima AI — Documentation Site
+# OptimaAI — Documentation Site
 
 > Official documentation for the Optima AI platform, built with [Fumadocs](https://fumadocs.vercel.app) and deployed on Vercel.
 
